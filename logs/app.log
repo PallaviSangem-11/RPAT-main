@@ -169,3 +169,21 @@ Arguments received by LSTMCell.call():
 2025-11-17 18:24:10,190 - INFO - Prediction - File: normal1.mp4, Label: NonViolence, Confidence: 0.95
 2025-11-18 03:49:33,521 - WARNING - From C:\Users\Dell\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
 
+2025-11-18 04:24:58,141 - WARNING - From C:\Users\Dell\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-11-18 04:26:21,479 - INFO - User uploaded: figh2.mp4
+2025-11-18 04:26:55,474 - INFO - User uploaded: figh2.mp4
+2025-11-18 04:27:04,404 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-11-18 04:28:31,795 - INFO - Prediction - File: figh2.mp4, Label: NonViolence, Confidence: 0.65
+2025-11-18 04:28:55,756 - INFO - User uploaded: fight1.mp4
+2025-11-18 04:29:05,216 - INFO - User uploaded: fight1.mp4
+2025-11-18 04:29:15,592 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-11-18 04:30:46,696 - INFO - Prediction - File: fight1.mp4, Label: Violence, Confidence: 0.54
+2025-11-18 04:31:12,806 - INFO - User uploaded: fight1.mp4
+2025-11-18 04:31:21,449 - INFO - User uploaded: fight1.mp4
+2025-11-18 04:31:31,567 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-11-18 04:33:01,559 - INFO - Prediction - File: fight1.mp4, Label: Violence, Confidence: 0.54
+2025-11-18 04:33:31,410 - INFO - User uploaded: fight3.mp4
+2025-11-18 04:33:37,187 - INFO - User uploaded: fight3.mp4
+2025-11-18 04:33:42,860 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-11-18 04:35:14,270 - INFO - Prediction - File: fight3.mp4, Label: Violence, Confidence: 0.62
