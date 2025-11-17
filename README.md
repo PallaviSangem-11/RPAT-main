@@ -1,4 +1,4 @@
-git clone https://github.com/codingacharya/RPAT.git
+
 
 cd RPAT
 
